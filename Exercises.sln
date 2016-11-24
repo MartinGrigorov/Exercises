@@ -5,6 +5,12 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Largest Common End", "01. Largest Common End\01. Largest Common End.csproj", "{C0BD99A2-DF10-4369-873E-DB53B72C2080}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Compare Char Arrays", "05. Compare Char Arrays\05. Compare Char Arrays.csproj", "{D8A6757D-7FDA-4A93-A8BF-2894042B784B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Rotate and Sum", "02. Rotate and Sum\02. Rotate and Sum.csproj", "{16BD1902-B8AD-4ADC-8E11-21FFE24895C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Fold and Sum", "03. Fold and Sum\03. Fold and Sum.csproj", "{5DD51F30-A308-41B7-B23D-502448F9A113}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{C0BD99A2-DF10-4369-873E-DB53B72C2080}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0BD99A2-DF10-4369-873E-DB53B72C2080}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0BD99A2-DF10-4369-873E-DB53B72C2080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A6757D-7FDA-4A93-A8BF-2894042B784B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A6757D-7FDA-4A93-A8BF-2894042B784B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A6757D-7FDA-4A93-A8BF-2894042B784B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A6757D-7FDA-4A93-A8BF-2894042B784B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BD1902-B8AD-4ADC-8E11-21FFE24895C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BD1902-B8AD-4ADC-8E11-21FFE24895C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BD1902-B8AD-4ADC-8E11-21FFE24895C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BD1902-B8AD-4ADC-8E11-21FFE24895C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DD51F30-A308-41B7-B23D-502448F9A113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD51F30-A308-41B7-B23D-502448F9A113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD51F30-A308-41B7-B23D-502448F9A113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD51F30-A308-41B7-B23D-502448F9A113}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
